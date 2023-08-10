@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, I'm Siddharth Hota</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-# 💫 About Me:
 🌱 I’m currently learning Fullstack Development<br>👨‍💻 All of my projects are available at <a href='https://siddharth-hota.netlify.app/'>siddharth-hota.netlify.app</a><br>💬 Ask me about react & javascript<br>📫 How to reach me siddharthhota24@gmail.com<br>⚡ Fun fact It's all 0's and 1's
 
 
